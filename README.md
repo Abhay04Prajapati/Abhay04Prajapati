@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhay_Prajapati
-- 👀 I’m interested in Games
+- 👀 I’m interested in Kabbadi
 - 🌱 I’m currently learning DSA in c and python
 - 📫 Can contact me on 8130830592
 - ⚡ Fun fact: Good human value
